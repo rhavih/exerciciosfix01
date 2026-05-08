@@ -1,0 +1,16 @@
+body{
+    font-family: Arial;
+    background-color: beige;
+}
+
+h1{
+    color: darkred;
+}
+
+h2{
+    color: brown;
+}
+
+p{
+    font-size: 18px;
+}
